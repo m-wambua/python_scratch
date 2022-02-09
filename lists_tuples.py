@@ -43,3 +43,5 @@ tup4=(1,2)
 tup5=(5,7)
 tup6=tup4 +tup5# this concatinates
 print(tup6)
+tup7=tup4-tup5
+print(tup7)
