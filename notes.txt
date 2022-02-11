@@ -1,0 +1,31 @@
+PYTHON FROM SCRATCH
+ so python has 3 types of  numbers
+ integers do nothave a fraction in thekm
+ floating point it can store number with a fraction in it
+ complex it can store real and imaginary numbers
+
+
+ sequences ordered collection of elements
+
+ strings
+ tuples
+ lists
+
+ sets an un-ordered collection of elements
+
+ lists is a collection of objects. most general sequence provided by the language
+ and lists are mutable
+
+ a list can be 
+    a collection of homogenous(similar elements) like [1,2,3]
+    of different elements(heteorgenous) likr [1,'abs',2.3]
+    can also be empty([])
+    a list can contain lists as well
+
+
+tuples contains elements which can be treated as individuals or as a group
+
+tuples are important in swapping
+
+tuples are imutable just like strings
+
