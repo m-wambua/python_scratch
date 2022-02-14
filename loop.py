@@ -63,3 +63,16 @@ while v<=h:
 
 else:
     print('the sum of'+str(h)+'terms is\t:'+str(sum))
+
+
+## say if we want to do patterns
+
+# this will be used to undrstanc nested loops
+
+q=int(input('enter the number of rows'))
+    
+for w in range (q):
+    for e in range (1,w+2):
+    
+        print('*',end=" ")
+    print()
