@@ -59,7 +59,7 @@ def sum1():
 
 def sum2(num1,num2):
     sum=num2+num1
-    print('the sum of the numbers is \t :')
+    print('the sum of the numbers is \t :'+str(sum))
 
 def sum3(num1,num2):
     sum=num1+num2
@@ -75,3 +75,8 @@ print('calling the third function...')
 results=sum3(num1,num2)# since this function returns the sum it has to be reassigned a new name before actually calling it
 
 print(results)
+def sum4(num_1,num_2):
+    return(num_1+num_2)
+
+print('using interger arguments \t : result :'+str(sum4(2,3)))
+print('calling the function with string arguments \t: Result :  '+str(sum4('this','world')))
