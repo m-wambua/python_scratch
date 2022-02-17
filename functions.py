@@ -80,3 +80,6 @@ def sum4(num_1,num_2):
 
 print('using interger arguments \t : result :'+str(sum4(2,3)))
 print('calling the function with string arguments \t: Result :  '+str(sum4('this','world')))
+
+
+# implementing search

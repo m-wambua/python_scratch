@@ -17,4 +17,5 @@ else:# here it means num_b is already greater than num_a
     else:
         big=num_c
 
-print('the largest of the three is: ' big)
+print(big)
+
